@@ -8,7 +8,7 @@ public class WishServiceImpl implements WishService {
 	@Override
 	public String generateWishMessage() {
 		
-		return "GoodNight Always.. :)";
+		return "GoodNight.. :)";
 	}
 
 }
